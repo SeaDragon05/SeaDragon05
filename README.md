@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @SeaDragon05
 I am curretly a student
+
 No, I am not looking for anything special at the moment
+
 I am working on a very ambitious project thats basically a train sim but with guns
 
 <!---
