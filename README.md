@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @SeaDragon05
-I am curretly a student
+- 👋 Hi, I’m Isaac Dredge, a student at Ensign College studying Software Engineering and Cyber Security. My goal is to become an Embedded Linux Engineer.
 
-No, I am not looking for anything special at the moment
-
-I am working on a very ambitious project thats basically a train sim but with guns
+I love taking on new projects and seeing what I can explore!
 
 <!---
 SeaDragon05/SeaDragon05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
